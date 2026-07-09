@@ -14,3 +14,11 @@ This project is used to practice Git and GitHub collaboration workflows.
 ## Feature
 
 This project demonstrates a complete Git and GitHub collaboration workflow by showing how developers can manage issues, create feature branches, submit pull requests, perform code reviews, resolve conflicts, rebase branches, and run automated checks using GitHub Actions.
+
+## Example workflow
+
+1. Create an issue describing the change you want to make.
+2. Create a new branch based on the issue.
+3. Commit your changes with a clear message.
+4. Push the branch and open a pull request.
+5. Address review feedback before merging.
