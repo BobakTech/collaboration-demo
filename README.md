@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Feature
 
-This project demonstrates a complete Git and GitHub collaboration workflow, including issue tracking, branching, pull requests, code reviews, conflict resolution, rebasing, and continuous integration using GitHub Actions.
+This project demonstrates a complete Git and GitHub collaboration workflow by showing how developers can manage issues, create feature branches, submit pull requests, perform code reviews, resolve conflicts, rebase branches, and run automated checks using GitHub Actions.
